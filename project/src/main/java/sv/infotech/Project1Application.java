@@ -1,4 +1,4 @@
-package sv.infotech.entity;
+package sv.infotech;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
